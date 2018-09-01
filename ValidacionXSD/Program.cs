@@ -2,7 +2,7 @@
    * Proyecto: Validación de XML utilizando su respectivo XSD
    * Descripción: Valida XML correspondientes a un CFDI v3.3 (facturación SAT, México)
    * Fecha: 2018-08-19
-   * UrlPublicacion: 
+   * UrlPublicacion: https://aprendetesto.blogspot.com/2018/08/validacion-xml-tipo-cfdi-contra-su-xsd.html
 */
 
 using System;
